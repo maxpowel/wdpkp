@@ -25,6 +25,10 @@ I use a mysql but you can use everything supported by sqlalchemy. Copy the file 
 ```cp config/parameters.yml.dist config/parameters.yml```
 Now edit the file config/parameters.yml and write your own database configuration
 
+Once you have configured your database you need to create the database schema
+```python create_schema.py```
+
+
 Usage
 -----
 ```python main.py filename.kml```
