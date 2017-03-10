@@ -1,0 +1,4 @@
+.idea
+*.kml
+config/parameters.yml
+__pycache__/

@@ -1,0 +1,9 @@
+PyMySQL==0.7.10
+PyYAML==3.12
+SQLAlchemy==1.1.6
+fastkml==0.11
+lxml==3.7.3
+mapped-config==1.1
+pygeoif==0.6
+python-dateutil==2.6.0
+six==1.10.0

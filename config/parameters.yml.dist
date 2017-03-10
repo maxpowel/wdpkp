@@ -1,0 +1,4 @@
+database_driver: mysql+pymysql
+database_hostname: localhost
+database_password: root
+database_database: wifilog
