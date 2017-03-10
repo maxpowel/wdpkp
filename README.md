@@ -12,7 +12,9 @@ Synchronize, create new and merge placemarks is basically what it does.
 Installation
 ------------
 ```git clone https://github.com/maxpowel/wdpkp.git```
+
 ```cd wdpkp```
+
 ```pip install -r requirements.txt```
 
 That's all, next step is configure your database
